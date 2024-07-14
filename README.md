@@ -19,3 +19,8 @@ The heuristic function used in this implementation is the Euclidean distance bet
 
 ## Visualization
 A visual simulator is provided to visualize the A* search process. The grid map, obstacles, and the path found by the algorithm will be displayed in a graphical interface.
+
+##
+![Screenshot 2024-07-14 140658](https://github.com/user-attachments/assets/369b3786-8bc2-483a-8d4a-b12147d715e8)
+![Screenshot 2024-07-14 140712](https://github.com/user-attachments/assets/5df0d0d4-b4dd-4aab-a959-e640b9a1389d)
+
